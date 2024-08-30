@@ -41,3 +41,5 @@ A imagem abaixo mostra o diagrama Star Schema criado para este projeto:
 ## Conclusão
 
 Este projeto proporcionou uma estrutura robusta para a análise de dados educacionais, com foco na atividade docente, e demonstrou a utilidade de um modelo de dados bem planejado. O Star Schema facilitou a criação de relatórios e dashboards, permitindo uma compreensão mais profunda dos padrões e tendências dentro da instituição.
+
+OBS: Favor verificar o arquivo "Observações Importantes.docx" para outras considerações e passo a passo.
