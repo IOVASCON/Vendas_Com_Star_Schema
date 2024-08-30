@@ -36,7 +36,7 @@ O diagrama final foi exportado como uma imagem PNG do SqlDBM e carregado no repo
 
 A imagem abaixo mostra o diagrama Star Schema criado para este projeto:
 
-![Diagrama Star Schema](URL_da_Imagem_no_GitHub)
+![Diagrama Star Schema](https://github.com/IOVASCON/Vendas_Com_Star_Schema/blob/main/Professor_Star_Schema-V3.PNG)
 
 ## Conclusão
 
